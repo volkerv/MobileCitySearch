@@ -1,8 +1,9 @@
-The data from *OpenStreetMap* is © OpenStreetMap contributors.
-The script file *ogr2poly.py* is licensed under the terms of the
+The data from **OpenStreetMap** is © OpenStreetMap contributors.
+
+The script file **ogr2poly.py** is licensed under the terms of the
 GNU Lesser General Public License.
 
-For *all other source code* available in the repositiory the following
+For **all other source code** available in the repositiory the following
 license applies:
 
 This is free and unencumbered software released into the public domain.
