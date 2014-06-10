@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CitySearch</string>
+
+    <string name="searchString">Suche eingeben:</string>
+
+    <string name="searchResultCount">%d Städte gefunden</string>
+    <string name="searchResultCountLimit">%d Städte gefunden - Ergebnisliste auf 100 Einträge beschränkt</string>
+ 
+    <string name="south">S</string>
+    <string name="north">N</string>
+    <string name="east">O</string>
+    <string name="west">W</string>
+    
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent" >
+	
+    <EditText
+        android:id="@+id/searchString"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:contentDescription="@string/searchString"
+    />
+
+	<TextView android:id="@+id/resultCount" 
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:gravity="right"
+		android:layout_marginTop="10sp" />
+       
+	<ListView android:id="@+id/resultList" 
+		android:focusable="true"
+		android:layout_width="fill_parent"
+  		android:layout_height="wrap_content"
+  		android:layout_marginTop="10sp"
+  		android:background="@color/white"
+  		android:cacheColorHint="#00000000" />
+
+</LinearLayout>

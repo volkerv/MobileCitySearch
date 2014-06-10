@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  CitySearch
+
+  Created by Volker Voecking on 05.05.14.
+  Copyright (c) 2014 Volker Voecking Software Engineering. All rights reserved.
+*/
+"FIND_CITY" = "Find city:";
+"SEARCH_RESULT_COUNT" = "Found %d cities";
+"SEARCH_RESULT_COUNT_LIMIT" = "Found %d cities - Result list limited to 100 entries";
+"OSM" = "Based on data from the OpenStreetMap project - © OpenStreetMap contributors";
